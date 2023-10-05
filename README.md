@@ -1,2 +1,2 @@
 # Website live at :
-https://devaftab.github.io/maweb/
+https://devaftab.vercel.app/
